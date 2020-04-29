@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://debordproject.github.io/blog/author/</loc>
+    <lastmod>2020-04-29T14:55:14-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://debordproject.github.io/blog/pt/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://debordproject.github.io/blog/author/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://debordproject.github.io/blog/categories/</loc>
+    <lastmod>2020-04-29T14:55:14-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://debordproject.github.io/blog/pt/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://debordproject.github.io/blog/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://debordproject.github.io/blog/</loc>
+    <lastmod>2020-04-29T14:55:14-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://debordproject.github.io/blog/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://debordproject.github.io/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://debordproject.github.io/blog/categories/psychogeography/</loc>
+    <lastmod>2020-04-29T14:55:14-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://debordproject.github.io/blog/tags/psychogeography/</loc>
+    <lastmod>2020-04-29T14:55:14-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://debordproject.github.io/blog/quote/</loc>
+    <lastmod>2020-04-29T14:55:14-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://debordproject.github.io/blog/tags/</loc>
+    <lastmod>2020-04-29T14:55:14-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://debordproject.github.io/blog/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://debordproject.github.io/blog/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://debordproject.github.io/blog/author/wikipedia/</loc>
+    <lastmod>2020-04-29T14:55:14-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://debordproject.github.io/blog/quote/wikipedia-psychogeography/</loc>
+    <lastmod>2020-04-29T14:55:14-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://debordproject.github.io/blog/page/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://debordproject.github.io/blog/pt/page/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://debordproject.github.io/blog/page/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://debordproject.github.io/blog/page/github/</loc>
+  </url>
+  
+  <url>
+    <loc>https://debordproject.github.io/blog/page/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://debordproject.github.io/blog/pt/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://debordproject.github.io/blog/page/"
+                />
+  </url>
+  
+</urlset>
